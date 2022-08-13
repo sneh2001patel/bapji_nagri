@@ -32,7 +32,13 @@ var storyContent = {
                 "Start": [
                     ["^Sadhuta ni Murti", {
                         "#": "CLASS: date"
-                    }, "\n", "^<i>Siddhart ma Samadhan nahi ne niyam dharamma chutchat nahi</i> <b> - Gurudev's Moto</b>",  "\n", "^Jivan pariyant danek nanam nani niyam palya ane sant haribhakt samaj ne palaya", "\n", "^Till the age of 75 gurudev graced everyone with 5+ hours of labh everyday.", "\n", "ev", "str", "^Siddhat Vadi Sankalp Swarop", "/str", "/ev", {
+                    }, "\n", "^<i>Siddhart ma Samadhan nahi ne niyam dharamma chutchat nahi</i> <b> - Gurudev's Moto</b>",
+                        "\n", "^Jivan pariyant darek nanam nani niyam palya ane sant haribhakt samaj ne palaya",
+                        "\n", "^Till the age of 75 gurudev graced everyone with 5+ hours of labh everyday.",
+                        
+                        "\n", "^<br><hr><br><i>સિદ્ધાર્થ માં સમાધાન નહીં ને નિયમ ધરમ માં છૂટ નહીં</i> - <b> ગુરુદેવનું સૂત્ર </b>",
+                        "\n", "^જીવન પર્યંત દાનેક નાનામાં નાની નિયમની પાળીને સંત હરિભક્ત સમાજ ને પડાવી",
+                        "\n", "^75 વર્ષની ઉંમર સુધી ગુરુદેવ દરરોજ 5+ કલાકનો લાભ આપીને દરેકને આશીર્વાદ આપતા હતા.", "\n", "ev", "str", "^Siddhat Vadi Sankalp Swarop", "/str", "/ev", {
                             "*": ".^.c-0",
                         "flg": 4,
                         }, "ev", "str", "^Founder of SMVS", "/str", "/ev", {
@@ -63,7 +69,15 @@ var storyContent = {
                 "Siddhat Vadi Sankalp Swarop": [
                     ["^Siddhat Vadi Sankalp Swarop", {
                         "#": "CLASS: date"
-                    }, "\n", "^Maha samarth Jivanpran Abjibapashree sankalpe padharya. \" Adha hamara, adha tumara\" ", "\n", "^Never gave into the words or pressure of anyone. Always focused on Maharaj and his rajipo.", "\n", "^He has always followed the creed of \" Sarvopari Swaminarayan Bhagwanini upasana dhrad karavi, ane anadimuktni sthiti pamadvi. \" ", "\n", "ev", "str", "^Sadhuta ni Murti", "/str", "/ev", {
+                    }, "\n", "^Maha samarth Jivanpran Abjibapashree sankalpe padharya. \" Adha hamara, adha tumara\" ",
+                        "\n", "^Never gave into the words or pressure of anyone. Always focused on Maharaj and his rajipo.",
+                        "\n", "^He has always followed the creed of \"Sarvopari Swaminarayan Bhagwanini upasana dhrad karavi, ane anadimuktni sthiti pamadvi.\" ",
+
+                        "\n", "^<br><hr><br>મહાસમર્થ જીવનપ્રાણ અબજીબાપાશ્રીના સંકલ્પે પધાર્યા. \"આધા તુમારા, આધા હમારા\" ",
+                        "\n", "^ક્યારેય કોઈની વાત કે દબાણમાં ન આવ્યા અને હંમેશા મહારાજ અને તેમના રાજીપો પર ધ્યાન કેન્દ્રિત કર્યું.",
+                        "\n", "^તેમણે હંમેશા \"સર્વોપરી સ્વામિનારાયણ ભગવાનની ​​ઉપાસના ધ્રડ કરાવી, અને અનાદિમુક્તની સ્થિતી પમાડી.\" ",
+
+                        "\n", "ev", "str", "^Sadhuta ni Murti", "/str", "/ev", {
                             "*": ".^.c-0",
                         "flg": 4,
                         }, "ev", "str", "^Founder of SMVS", "/str", "/ev", {
@@ -94,7 +108,12 @@ var storyContent = {
                 "Founder of SMVS": [
                     ["^Founder of SMVS", {
                         "#": "CLASS: date"
-                    }, "\n", "^Shunya mathi sarjan karyu", "\n", "^Apaar kasht shaya ek Maharaj ni sarvopari nistha samjava ne anant ne Mahrajni olkhan karavi, atyantik kalyan no marg chalu karyo.", "\n" ,"^Chokhi Sarvopari Swaminarayan Bhagwani nistha saman Maharajno sanklap ke amara mandiroma amara swaroopaj hase sakar kari chokka mandiro nu sthapan karyu.","\n", "ev", "str", "^Sadhuta ni Murti", "/str", "/ev", {
+                    }, "\n", "^Shunya mathi sarjan karyu",
+                        "\n", "^Apaar kasht shaya ek Maharaj ni sarvopari nistha samjava ne anant ne Mahrajni olkhan karavi, atyantik kalyan no marg chalu karyo.",
+                        "\n", "^Chokhi Sarvopari Swaminarayan Bhagwani nistha saman Maharajno sanklap ke amara mandiroma amara swaroopaj hase tevu sakar kari chokka mandiro nu sthapan karyu.",
+                        "\n", "^<br><hr><br>અપાર કષ્ટ સહ્યા અને એક મહારાજની સર્વોપરી નિષ્ઠા સમજાવી ને અનંત ને મહારાજની ઓળખાણ કરાવી, અત્યંતિક કલ્યાણનો માર્ગ ચાલુ કર્યો.",
+                        "\n", "^ચોખ્ખી સર્વોપરી સ્વામિનારાયણ ભગવાનની નિષ્ઠા સાથેનો મહારાજનો સંકલ્પ સાથે અમારા મંદિરોમા અમારા જ સ્વરૂપ હસે તે સાકર કરી ચોખ્ખી મંદિરો નું સ્થપણ કર્યું.",
+                        "\n", "ev", "str", "^Sadhuta ni Murti", "/str", "/ev", {
                             "*": ".^.c-0",
                         "flg": 4,
                         }, "ev", "str", "^Founder of SMVS", "/str", "/ev", {
@@ -125,7 +144,16 @@ var storyContent = {
                 "Vachanamrut": [
                     ["^Vachanamrut", {
                         "#": "CLASS: date"
-                    }, "\n", "^Vachramrut na acharya", "\n", "^Ek Ek shabda saral karine Maharajni swamukh vani evo Vachanamrut no arth chuto padine samjayo. ", "\n", "^He always says from all of the scriptures, Vachanamrut is the best and all scriptures are in the Vachanamrut.", "\n", "^When explaining the Vachanamrut, it always feels like Maharaj Himself is explaining His own words.", "\n", "ev", "str", "\n", "ev", "str", "^Sadhuta ni Murti", "/str", "/ev", {
+                    }, "\n", "^Vachramrut na acharya",
+                        "\n", "^Ek Ek shabda saral karine Maharajni swamukh vani evo Vachanamrut no arth chuto padine samjayo. ",
+                        "\n", "^He always says from all of the scriptures, Vachanamrut is the best and all scriptures are in the Vachanamrut.",
+                        "\n", "^When explaining the Vachanamrut, it always feels like Maharaj himself is explaining his own words.",
+                        
+                        "\n", "^<br><hr><br>એક શબ્દ છુટ્ટા કરીને મહારાજની સ્વમુખવાણી એવો વચનામૃત નો અર્થ છૂટો પડીને સમજાવ્યો.",
+                        "\n", "^બધા શાસ્ત્રોમાંથી વચનામૃત શ્રેષ્ઠ છે.",
+                        "\n", "^વચનામૃત સમજાવતી વખતે હંમેશા એવું લાગે છે કે મહારાજ પોતે જ પોતાની વાત સમજાવી રહ્યા છે.",
+
+                        "\n", "ev", "str", "\n", "ev", "str", "^Sadhuta ni Murti", "/str", "/ev", {
                             "*": ".^.c-0",
                         "flg": 4,
                         }, "ev", "str", "^Founder of SMVS", "/str", "/ev", {
@@ -156,7 +184,15 @@ var storyContent = {
                 "Hospital": [
                     ["^Hospital", {
                         "#": "CLASS: date"
-                    }, "\n", "^Divyapurush always put education, health and humanity forward and demonstrated it with the Boy's Gurukul, Girl's Gurukul, and 3 educational institues in Ahmedabad and Gandhinagar.", "\n", "^Inaugarated a high-class hospital which provides all services at a low cost. Helped 450,000 in the first 6 months.", "\n", "^Bapji opened 'Shreeji Bapa Medical Center' in 1996 which helped over 150,000 people.", "\n", "ev", "str", "^Sadhuta ni Murti", "/str", "/ev", {
+                    }, "\n", "^Divyapurush always put education, health and humanity forward and demonstrated it with the Boy's Gurukul, Girl's Gurukul, and 3 educational institues in Ahmedabad and Gandhinagar.",
+                        "\n", "^Inaugarated a high-class hospital which provides all services at a low cost. Helped 450,000 in the first 6 months.",
+                        "\n", "^Bapji opened 'Shreeji Bapa Medical Center' in 1996 which helped over 150,000 people.",
+
+                        "\n", "^<br><hr><br>દિવ્યપુરુષે હંમેશા શિક્ષણ, આરોગ્ય અને માનવતાને આગળ ધપાવ્યું. અમદાવાદ અને ગાંધીનગરમાં છોકરાઓનું ગુરુકુળ, છોકરીનું ગુરુકુળ અને 3 શૈક્ષણિક સંસ્થાઓ સાથે તેનું પ્રદર્શન કર્યું.",
+                        "\n", "^ઓછી કિંમતે તમામ સેવાઓ પૂરી પાડતી ઉચ્ચ કક્ષાની હોસ્પિટલનું ઉદ્ઘાટન કર્યું. પ્રથમ 6 મહિનામાં 450,000 લોકોને ની મદદ કરી.",
+                        "\n", "^બાપજીએ 1996 માં 'શ્રીજી બાપા મેડિકલ સેન્ટર' ખોલ્યું જેણે 150,000 થી વધુ લોકોને મદદ કરી.",
+
+                        "\n", "ev", "str", "^Sadhuta ni Murti", "/str", "/ev", {
                             "*": ".^.c-0",
                         "flg": 4,
                         }, "ev", "str", "^Founder of SMVS", "/str", "/ev", {
