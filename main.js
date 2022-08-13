@@ -92,7 +92,7 @@
                 // Create paragraph element (initially hidden)
             var paragraphElement = document.createElement('p');
             console.log(paragraphText);
-            if (!paragraphText.includes('<img class="cover"') && !paragraphText.includes('The man of ages who sparked a new revolution in the Swaminarayan sect')) {
+            if (!paragraphText.includes('<img class="cover bapa"') && !paragraphText.includes('The one who sparked a new revolution in the Swaminarayan Sampraday')) {
                     paragraphElement.classList.add("info");
                 }
                 paragraphElement.innerHTML = paragraphText;

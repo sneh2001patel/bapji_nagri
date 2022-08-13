@@ -22,6 +22,15 @@ border-radius: 35px;
     object-fit: cover;
     
 }
+.maharaj {
+        height: 400px;
+        width: 75%;
+        border-radius: 35px;
+        -moz-box-shadow: 0 0 10px #fff;
+        -webkit-box-shadow: 0 0 10px #fff;
+        box-shadow: 0px 0px 10px #fff;
+        object-fit: cover;
+}
 
 h1, h2 {
     text-align: center;
@@ -140,8 +149,17 @@ strong {
     color: white;
 }
 
-img {
+.bapa {
     content: url("57d57002-d6a2-4dbb-a80f-f4928ded03c6.png");
+}
+
+.topic {
+    margin-top: 15px;
+    height: 50%;
+}
+
+img {
+ 
     display: block;
     margin: 0 auto;
     max-width: 100%;
@@ -151,8 +169,18 @@ box-shadow: 3px 10px 73px -97px rgba(255,255,255,1);
 
 }
 
+video {
+
+    display: block;
+        margin: 0 auto;
+        max-width: 100%;
+        -webkit-box-shadow: 3px 10px 73px -97px rgba(255, 255, 255, 1);
+        -moz-box-shadow: 3px 10px 73px -97px rgba(255, 255, 255, 1);
+        box-shadow: 3px 10px 73px -97px rgba(255, 255, 255, 1);
+}
+
 @media screen and (max-width: 725px) {
-    img {
+    .bapa {
         content: url("tmp.png");
     }
 }
